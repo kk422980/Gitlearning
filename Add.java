@@ -11,5 +11,8 @@ Class Add
 
 			a= b+c;
 			System.out.println(a);
+			System.out.println(b);
+
+
 		}
 }
